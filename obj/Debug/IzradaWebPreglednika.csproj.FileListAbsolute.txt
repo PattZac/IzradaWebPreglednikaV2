@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\bin\Debug\IzradaWebPreglednika.exe.config
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\bin\Debug\IzradaWebPreglednika.exe
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\bin\Debug\IzradaWebPreglednika.pdb
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.Form1.resources
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.Properties.Resources.resources
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.exe
+C:\Users\korisnik\source\repos\IzradaWebPreglednika\obj\Debug\IzradaWebPreglednika.pdb
